@@ -1,5 +1,5 @@
 const express = require('express');
-const hbs = require('handlebars');
+const hbs = require('hbs');
 const port = process.env.PORT || 8888;
 
 let app = express();
